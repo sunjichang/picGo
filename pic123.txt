@@ -1,0 +1,62 @@
+1240204102500002
+上午周5和周日 的工作内容是 
+1. 采购端所有页面的 新UI配色开发 进度100%
+2. 供应商端所有页面的新UI配色开发 70%
+3. 采购端 物流信息查询接口联调 进度100%
+4. 修复bug数为 2 
+
+目前待解决bug数为0
+
+今天的工作计划是
+	1. 供应商端 页面的新UI配色开发
+	2. 配合测试和产品 修复待解决的bug 
+	3. 继续自测 采购端 供应商端的页面
+
+VPN可以最多同时登入10人
+VPN地址：https://116.6.195.85:55555
+备用地址：https://vpn.byd.com.cn/
+VPN 账号：s.bjjddjz，密码：uqwdy@ry3ap
+
+sunjichang5 sunjichang5
+
+云机信息：
+
+服务器地址为：https://dyun.byd.com
+
+任贵岭 用户名：s.renguiling，密码：mall@jd123
+
+th-malltest.byd.com
+运营方        yyadmin01        Jingcaiyun@123
+采购人        bjadmin01        Jingcaiyun@123
+供应商        gyadmin03        Jingcaiyun@123
+
+http://3.cn/1ToPQ-up
+
+原型链接：https://axhub.im/ax9/79bfdc1589066681/#g=1  密码：12345678
+
+默认验证码：358995
+
+bydcg001/Byd00001@
+
+运营方	yyadmin01	Jingcaiyun@123 digis_yyadmin
+采购人	bjadmin01	Jingcaiyun@123
+供应商	gyadmin01	Jingcaiyun@123
+
+商城： http://jcy-demo.jd.com/mall-view/ (bjadmin01/Jingcaiyun@123)
+采购端：http://jcy-demo.jd.com/buyer-view/ (bjadmin01/Jingcaiyun@123)
+供应商端：http://jcy-demo.jd.com/shop-view/（pengxiaoming/Jingcaiyun@123）
+运营端：http://jcy-demo.jd.com/platform-view/ （digis_yyadmin/Jingcaiyun@123）
+
+th-malltest.byd.com
+10.9.241.148
+:30080(admin Kuboard123)
+
+12103499
+
+return address.replace(/\^\$\^/g, '')
+
+运营方        yyadmin01        Jingcaiyun@123
+采购人        bjadmin01        Jingcaiyun@123
+供应商        gyadmin03        Jingcaiyun@123
+
+孙继昌 用户名：s.sunjichang，密码：cf9ssg@6cv4
